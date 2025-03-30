@@ -12,3 +12,14 @@ Open and run `SmartBot-RealTime-Sentiment-API-Demo.ipynb` to:
 - View emotion predictions in real-time
 
 ## 📂 File Structure
+smartbot-marketplace-demo/
+├── SmartBot-Demo-Notebook.ipynb      
+├── test-inputs/
+│   └── test-1.json                   
+├── README.md                         
+└── LICENSE                           
+
+
+## ✅ Requirements
+- AWS account with SageMaker endpoint deployed
+- Python SDK: `boto3`, `json`
